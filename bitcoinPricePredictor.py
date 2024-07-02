@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import torch
 import torch.nn as nn
 
-data = pd.read_csv('data/BTC-USD.csv')
+data = pd.read_csv('BTC-USD.csv')
 
 
 # In[4]:
