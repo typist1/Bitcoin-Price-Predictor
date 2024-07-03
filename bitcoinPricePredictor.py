@@ -347,7 +347,7 @@ plt.xlabel('Day')
 plt.ylabel('Close')
 plt.legend()
 
-
+plt.show()
 # In[ ]:
 
 
